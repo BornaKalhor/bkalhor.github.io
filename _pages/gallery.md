@@ -20,9 +20,9 @@ author_profile: true
 </style>
 
 <div class="grid-gallery">
-    ![Image 1](images/3953273590_704e3899d5_m.jpg)
-    ![Image 2](images/3953273590_704e3899d5_m.jpg)
-    ![Image 3](images/3953273590_704e3899d5_m.jpg)
-    ![Image 4](images/3953273590_704e3899d5_m.jpg)
+    ![Image 1](/images/3953273590_704e3899d5_m.jpg)
+    ![Image 2](/images/3953273590_704e3899d5_m.jpg)
+    ![Image 3](/images/3953273590_704e3899d5_m.jpg)
+    ![Image 4](/images/3953273590_704e3899d5_m.jpg)
     
 </div>
