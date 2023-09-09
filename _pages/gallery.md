@@ -6,23 +6,12 @@ author_profile: true
 ---
 
 
-<style>
-    .grid-gallery {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
-    }
-
-    .grid-gallery img {
-        max-width: 100%;
-        height: auto;
-    }
-</style>
-
-<div class="grid-gallery">
-    ![Image 1](/images/3953273590_704e3899d5_m.jpg)
-    ![Image 2](/images/3953273590_704e3899d5_m.jpg)
-    ![Image 3](/images/3953273590_704e3899d5_m.jpg)
-    ![Image 4](/images/3953273590_704e3899d5_m.jpg)
-    
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 10px;">
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 1" style="width: 100%;" /></div>
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 2" style="width: 100%;" /></div>
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 3" style="width: 100%;" /></div>
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 4" style="width: 100%;" /></div>
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 5" style="width: 100%;" /></div>
+  <div><img src="./images/3953273590_704e3899d5_m.jpg" alt="Image 6" style="width: 100%;" /></div>
+  <!-- Add more images as needed -->
 </div>
