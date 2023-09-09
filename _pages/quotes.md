@@ -21,4 +21,15 @@ author_profile: true
 >*"It's better to burn out than to fade away"*
 >
 >— Neil Young
-```
+
+
+
+>*"Slowly is the fastest way to get to where you want to be."*
+>
+>—Andre De Shields
+
+
+
+>*"If we waited until we were ready, we would be waiting our entire lives."*
+>
+>—Violet and Klaus Baudelaire, A Series of Unfortunate Events by Lemony Snicket
