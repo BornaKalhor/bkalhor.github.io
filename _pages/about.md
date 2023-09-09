@@ -31,7 +31,7 @@ Outside of my technical skills, I enjoy staying active by going to the gym and h
 
 <script>
   var typewriter = document.querySelector(".typewriter");
-  var text = typewriter.innerText;
+  var text = "Hello world.";
   var i = 0;
 
   function type() {
