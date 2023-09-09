@@ -38,7 +38,7 @@ Outside of my technical skills, I enjoy staying active by going to the gym and h
     if (i < text.length) {
       typewriter.innerHTML += text[i];
       i++;
-      setInterval(myFunction, 3000);
+      setInterval(type, 10000);
     }
   }
 
