@@ -16,9 +16,8 @@ redirect_from:
 </style>
 
 
-<div class="typewriter">
-  Hello World.
-</div>
+<h1 class="typewriter">Hello world.</h1>
+
 
 This is Borna, a computer engineering graduate from Ferdowsi University of Mashhad.
 
@@ -31,14 +30,14 @@ Outside of my technical skills, I enjoy staying active by going to the gym and h
 
 <script>
   var typewriter = document.querySelector(".typewriter");
-  var text = "Hello World.";
+  var text = typewriter.innerText;
   var i = 0;
 
   function type() {
     if (i < text.length) {
       typewriter.innerHTML += text[i];
       i++;
-      setTimeout(type, 100);
+      setTimeout(type, 200);
     }
   }
 
