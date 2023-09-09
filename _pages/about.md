@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,12 +11,13 @@ redirect_from:
 <style>
   .typewriter {
   font-family: monospace;
+  font-weight: bold;
   animation: typing 3s steps(30, end) 1s 1 normal both, blinking-cursor .5s step-end infinite;
 }
 </style>
 
 
-<h1 class="typewriter">Hello world.</h1>
+<h1 class="typewriter"></h1>
 
 
 This is Borna, a computer engineering graduate from Ferdowsi University of Mashhad.
