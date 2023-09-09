@@ -12,7 +12,7 @@ redirect_from:
   .typewriter {
   font-family: monospace;
   font-weight: bold;
-  animation: typing 3s steps(30, end) 1s 1 normal both, blinking-cursor .5s step-end infinite;
+  animation: typing 5s steps(30, end) 1s 1 normal both, blinking-cursor .5s step-end infinite;
 }
 </style>
 
@@ -38,7 +38,7 @@ Outside of my technical skills, I enjoy staying active by going to the gym and h
     if (i < text.length) {
       typewriter.innerHTML += text[i];
       i++;
-      setInterval(type, 10000);
+      setInterval(type, 1000);
     }
   }
 
