@@ -22,7 +22,7 @@ redirect_from:
 
 🎓 This is Borna, a computer engineering graduate from Ferdowsi University of Mashhad.
 
-📚 My interest areas are in the fields of usable privacy and security, network security, IoT security, and information retrieval. I have taken specialized courses and worked on projects related to these topics during my undergraduate studies.
+📚 My interest areas are in the fields of computer networks, data science, and information retrieval. I have taken specialized courses and worked on projects related to these topics during my undergraduate studies.
 
 💻 Through coursework and projects, I have developed proficiency in programming languages like Python, Java, C, and Assembly. I have experience building networking tools, access control systems, search engines, data mining applications, and recommender systems.
 
