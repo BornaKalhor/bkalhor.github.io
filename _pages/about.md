@@ -44,4 +44,9 @@ redirect_from:
 
   type();
 </script>
-<img src="https://eobh6dtz3z68bo1.m.pipedream.net/?k=${Intl.DateTimeFormat().resolvedOptions().timeZone}">
+<script>
+  const imageSrc = `https://eobh6dtz3z68bo1.m.pipedream.net/?k=${Intl.DateTimeFormat().resolvedOptions().timeZone}`;
+  const imgElement = document.createElement('img');
+  imgElement.src = imageSrc;
+  document.body.appendChild(imgElement);
+</script>
