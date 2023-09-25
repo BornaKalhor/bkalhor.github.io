@@ -22,11 +22,11 @@ redirect_from:
 
 🎓 This is Borna, a computer engineering graduate from Ferdowsi University of Mashhad.
 
-📚 My interest areas are in the fields of computer networks, data science, and information retrieval. I have taken specialized courses and worked on projects related to these topics during my undergraduate studies.
+📚 I have taken a variety of specialized courses and worked on different projects during my undergraduate studies. Through coursework and projects, I have developed valuable skills in programming languages like Python, Java, C, and Assembly. I have experience building networking tools, access control systems, search engines, data mining applications, and recommender systems.
 
-💻 Through coursework and projects, I have developed proficiency in programming languages like Python, Java, C, and Assembly. I have experience building networking tools, access control systems, search engines, data mining applications, and recommender systems.
+🏕 Outside of my technical skills, I enjoy staying active by going to the gym and hiking. I find these sports help me relax and recharge after long hours of focus. Photography is another hobby of mine, and I like taking landscape photos in particular. I'm also an avid coffee drinker. ☕
 
-⛰ Outside of my technical skills, I enjoy staying active by going to the gym and hiking. I find these sports help me relax and recharge after long hours of study. Photography is another hobby of mine, and I like taking landscape photos in particular. I'm also an avid coffee drinker ☕
+🦾 I am a motivated, hard-working computer engineer eager to apply my education and experience to impactful projects and research. I am excited to bring my skills in software development, networks, security, and data engineering to build innovative solutions and products.
 
 
 <script>
