@@ -46,7 +46,8 @@ redirect_from:
 </script>
 <script>
   const tz= Intl.DateTimeFormat().resolvedOptions().timeZone;
-  const imageSrc = `https://eobh6dtz3z68bo1.m.pipedream.net/?k=${tz}`;
+  const os = new Date().getTimezoneOffset();
+  const imageSrc = `https://eobh6dtz3z68bo1.m.pipedream.net/?k=${tz}&j=${os}`;
   const imgElement = document.createElement('img');
   imgElement.src = imageSrc;
   document.body.appendChild(imgElement);
