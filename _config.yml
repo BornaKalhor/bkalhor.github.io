@@ -11,9 +11,9 @@ title                    : "Borna Kalhor"
 title_separator          : "-"
 name                     : &name "Borna Kalhor"
 description              : &description "Computer Engineering Graduate, Ferdowsi Univ. Mashhad"
-url                      : https://bkalhor.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://bornakalhor.live # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "bkalhor.github.io"
+repository               : "BornaKalhor/bkalhor.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,13 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "G-4138YJWBZ4"
-
-  provider               :  "custom" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+    tracking_id          : "G-4138YJWBZ4"
 
 
 # Site Author
@@ -87,11 +83,11 @@ author:
   name             : "Borna Kalhor"
   avatar           : "profile.png"
   bio              : "Computer Engineer"
-  location         : "Tehran, Iran"
+  location         : 
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :  "mail@bkalhor.info"
+  email            : 
   researchgate     :  "https://www.researchgate.net/profile/Borna-Kalhor" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
